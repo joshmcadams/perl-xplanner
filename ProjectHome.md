@@ -1,0 +1,1 @@
+XPlanner provides a SOAP interface.  This is a Perl-based wrapper around that interface that makes it easier for Perl developers to work with XPlanner through web services.
